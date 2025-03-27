@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Puneet Singh Virdi</h1>
 <h3 align="center">Here’s a concise and impaIT Engineer | Linux & OpenStack Deployment | Cloud (AWS, Azure) | Telecom Infrastructure | Passionate Tech Enthusiast</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/24390689/file/original-3f13cebc70b575018ccbb750588394bc.gif">
+"
+
+"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetsingh97&label=Profile%20views&color=0e75b6&style=flat" alt="puneetsingh97" /> </p>
 
 - 👯 I’m looking to collaborate on **Cloud based Infra Solution**
