@@ -1,5 +1,4 @@
-![logo](https://thumbs.dreamstime.com/b/network-server-computers-business-intelligence-database-security-system-backup-data-traffic-analysis-big-data-cloud-139213705.jpg)
-
+![logo](https://www.altengt.com/images/cloudcomputing/cloudcomputing_banner.jpg)
 <h1 align="center">Hi 👋, I'm Puneet Singh Virdi</h1>
 <h3 align="center">Here’s a concise and impaIT Engineer | Linux & OpenStack Deployment | Cloud (AWS, Azure) | Telecom Infrastructure | Passionate Tech Enthusiast</h3>
 
